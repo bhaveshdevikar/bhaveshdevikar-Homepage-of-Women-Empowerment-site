@@ -1,0 +1,52 @@
+.center{
+    margin-top: 20px;
+    padding: 60px;
+}
+h3{
+    text-align: center;
+}
+.about{
+    padding: 60px;
+}
+h2{
+    text-align: center;
+}
+
+p{
+    justify-content: center;
+    text-align: center;
+
+}
+
+.kido{padding-top: 50px;}
+
+
+
+.flex-container6{
+    padding-top: 40px;
+}
+.container{
+    padding-top: 40px;
+    padding-left:5px;
+    padding-right: 5px;
+}
+
+.container5{
+   text-align: center;
+   text-align: center;
+}
+.main{
+    padding-left: 500px;
+    padding-right: 500px;
+}
+
+ .links{
+    word-spacing: 5px;
+} 
+.container1{
+    padding-left: 1500px;
+}
+.duo{
+    text-align: center;
+    justify-content: center;
+}
